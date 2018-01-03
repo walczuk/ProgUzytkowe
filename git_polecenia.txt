@@ -1,5 +1,0 @@
-cd d:/... = zmiana katalogu
-pwd = informacja gdzie siê aktualnie znajdujemy
-git add -h = krótki help
-git add --help = d³ugi help w html
-git clone https://github.com/walczuk/ProgUzytkowe.git
